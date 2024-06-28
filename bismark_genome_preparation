@@ -1,5 +1,0 @@
-bismark_genome_preparation
---verbose
---bowtie2
---parallel 9
-genome_dir
